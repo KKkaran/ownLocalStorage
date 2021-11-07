@@ -1,0 +1,26 @@
+body{
+    background-color: firebrick;
+    color: aliceblue;
+}
+div{
+    text-align: center;
+}
+button{
+    padding: 10px;
+    border-radius: 20%;
+    border: none;
+    background-color: aquamarine;
+}
+input{
+    border-radius: 50px;
+    padding: 10px;
+}
+.inputs{
+    margin-bottom: 20px;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+
+}
